@@ -15,4 +15,4 @@ The lower 4 knobs are a frequency mixer: the module constantly calculates 4 nois
 The 4 outputs positioned in a square shape are single octave outputs; they are in the same order as the frequency mixer knobs: the top left one outputs the slowest noise, the bottom right one outputs the fastest noise.
 The lowest, central output is the mix output, giving you a mix of the noise octaves based on your frequency mixer settings."
 
-![Picture](https://github.com/digitalhappens/ILovePerlin/blob/master/screenshots/PerlinOneScreenshot.png)
+![Picture](https://github.com/digitalhappens/ILovePerlin/blob/master/screenshots/PerlinNoiseScreenshot.png)
