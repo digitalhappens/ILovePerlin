@@ -7,7 +7,7 @@ PerlinOne is taken from / totally based on [NauModulars Perlin](https://github.c
 
 In the future there will be more modules in ILovePerlin which will do "something" based on [perlin noise](https://en.wikipedia.org/wiki/Perlin_noise).
 
-*PerinOne*
+**PerlinOne**
 
 "The speed knob controls how much nervous the noise is. On its side you have a CV control input and a smaller knob to balance the final speed between the main knob's value and the CV input.
 The amp knob controls noise amplitude. On its side threre's a CV control input and a balancing knob, just like for the speed control.
